@@ -1,0 +1,37 @@
+.container {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 100%;
+}
+
+.chart {
+	width:600;
+	height:250;
+	margin:auto;
+}
+
+.label {
+  align-self: flex-end;
+}
+
+.spendTag {
+	margin: 10px;
+	background: #9ae250;
+	color: #fff;
+	padding:10px;
+}
+
+.utilisationTag {
+	margin: 10px;
+	background: #4ed8fd;
+	color: #fff;
+	padding:10px;
+}
+
+.ratingTag {
+	margin: 10px;
+	background: #fd8f2a;
+	color: #fff;
+	padding:10px;
+}
